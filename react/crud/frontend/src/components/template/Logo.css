@@ -1,0 +1,18 @@
+aside.logo 
+{
+    
+    height: 100vh;   
+    
+}
+
+#home 
+{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.842), rgba(0, 0, 0, 0.842)), url("../../assets/imgs/foto.jpg");        
+}
+
+.opacity 
+{
+    filter: brightness(40%);
+    
+}
+

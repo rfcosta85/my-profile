@@ -4,5 +4,7 @@ import React from 'react'
 /* Função de componentes funcionais */
 export default props => 
     <aside className="menu-area">
-        Navegação
+        <div className="container-fluid">
+            Navegação
+        </div>
     </aside> 

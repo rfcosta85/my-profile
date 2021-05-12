@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 import React from 'react'
 
@@ -9,7 +10,7 @@ import Footer from '../template/Footer'
 /* Componentes funcionais (sem estado) */
 
 export default props => 
-    <div className="app">
+    <div className="app container-fluid">
         <Logo />
         <Nav />
         <Main />
