@@ -10,7 +10,7 @@ import Footer from '../template/Footer'
 /* Componentes funcionais (sem estado) */
 
 export default props => 
-    <div className="app container-fluid">
+    <div className="app">
         <Logo />
         <Nav />
         <Main />
